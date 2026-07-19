@@ -246,6 +246,11 @@ The **UC Merced Land Use Dataset** is used to evaluate the generalization capabi
 | Image Size | 256 × 256 |
 | Purpose | Holdout Evaluation |
 
+### Dataset
+The dataset is available via [Kaggle](https://www.kaggle.com/datasets/abdulhasibuddin/uc-merced-land-use-dataset/data).
+
+
+
 ---
 
 # 📁 Repository Structure

@@ -466,7 +466,7 @@ The application provides an intuitive and interactive Streamlit dashboard for sa
 
 ## 🏠 Home Page
 
-<img src="assets/dashboard-home.png.png" width="100%">
+<img src="assests/dashboard-home.png" width="100%">
 
 The landing page introduces the project and provides an overview of the complete land-use classification and temporal change detection pipeline.
 
@@ -474,7 +474,7 @@ The landing page introduces the project and provides an overview of the complete
 
 ## 📤 Upload Satellite Images
 
-<img src="assets/upload-page.png.png" width="100%">
+<img src="assests/upload-page.png" width="100%">
 
 Users can upload **Before** and **After** satellite images for comparison.
 
@@ -489,7 +489,7 @@ Features:
 
 ## 🧠 Classification Results
 
-<img src="assets/prediction-results.png.png" width="100%">
+<img src="assests/prediction-results.png" width="100%">
 
 For each uploaded image, the dashboard predicts:
 
@@ -501,7 +501,7 @@ For each uploaded image, the dashboard predicts:
 
 ## 📈 Similarity Analysis
 
-<img src="assets/similarity-analysis.png.png" width="100%">
+<img src="assests/similarity-analysis.png" width="100%">
 
 The dashboard computes cosine similarity between both feature embeddings.
 
@@ -515,7 +515,7 @@ Outputs include:
 
 ## 🔥 Heatmap Visualization
 
-<img src="./assests/heatmap.png" width="100%">
+<img src="assests/heatmap.png" width="100%">
 
 A visual heatmap highlights regions with significant differences between the two satellite images.
 
@@ -523,7 +523,7 @@ A visual heatmap highlights regions with significant differences between the two
 
 ## 📋 Analysis Summary
 
-<img src="assets/summary.png.png" width="100%">
+<img src="assests/summary.png" width="100%">
 
 The dashboard summarizes:
 

@@ -226,6 +226,13 @@ The **EuroSAT** dataset is used for training and validating the land-use classif
 - River
 - Sea/Lake
 
+### Dataset
+The dataset is available via [Zenodo](https://zenodo.org/record/7711810#.ZAm3k-zMKEA).
+
+##### Deprecated Hosting
+* [EuroSAT Dataset (RGB)](https://madm.dfki.de/files/sentinel/EuroSAT.zip)
+* [EuroSAT Dataset (MS)](https://madm.dfki.de/files/sentinel/EuroSATallBands.zip)
+
 ---
 
 ## 🛰️ UC Merced Land Use Dataset (Holdout Dataset)

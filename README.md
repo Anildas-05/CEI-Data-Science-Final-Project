@@ -466,7 +466,7 @@ The application provides an intuitive and interactive Streamlit dashboard for sa
 
 ## 🏠 Home Page
 
-<img src="assets/dashboard-home.png.png" width="100%">
+<img src="assests/dashboard-home.png" width="100%">
 
 The landing page introduces the project and provides an overview of the complete land-use classification and temporal change detection pipeline.
 

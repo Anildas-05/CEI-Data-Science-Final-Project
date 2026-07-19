@@ -1,0 +1,9 @@
+{
+    "change_threshold": 0.258402156829834,
+    "similarity_threshold": 0.741597843170166,
+    "accuracy": 0.6535,
+    "precision": 0.5933130699088146,
+    "recall": 0.976,
+    "f1_score": 0.7379962192816635,
+    "roc_auc": 0.8395409999999999
+}

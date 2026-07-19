@@ -23,8 +23,7 @@ Predict land-use categories from satellite imagery, compare two satellite images
 
 ### 🌐 Live Demo
 
-> 🚧 **Coming Soon**  
-> https://your-streamlit-app.streamlit.app
+> https://satellite-landuse-classifier.streamlit.app
 
 ### 🎥 Project Demo
 
@@ -701,10 +700,10 @@ Download the generated analysis report.
 
 # 🌐 Live Streamlit Deployment
 
-> 🚧 Coming Soon
+
 
 ```
-https://your-streamlit-app.streamlit.app
+https://satellite-landuse-classifier.streamlit.app
 ```
 
 ---

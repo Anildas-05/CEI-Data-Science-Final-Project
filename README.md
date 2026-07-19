@@ -523,7 +523,7 @@ A visual heatmap highlights regions with significant differences between the two
 
 ## 📋 Analysis Summary
 
-<img src="assets/summary.png" width="100%">
+<img src="assests/summary.png" width="100%">
 
 The dashboard summarizes:
 

@@ -783,6 +783,7 @@ Yes. Upload any compatible satellite images using the Streamlit dashboard.
 Yes. After installing the required dependencies, the dashboard runs locally without an internet connection.
 
 </details>
+
 ---
 
 # 👨‍💻 Author

@@ -783,22 +783,6 @@ Yes. Upload any compatible satellite images using the Streamlit dashboard.
 Yes. After installing the required dependencies, the dashboard runs locally without an internet connection.
 
 </details>
-
----
-
-# 🤝 Acknowledgements
-
-Special thanks to:
-
-- EuroSAT Dataset
-- UC Merced Land Use Dataset
-- PyTorch
-- Torchvision
-- Streamlit
-- Scikit-Learn
-- OpenCV
-- Matplotlib
-
 ---
 
 # 👨‍💻 Author

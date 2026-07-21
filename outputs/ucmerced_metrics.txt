@@ -1,7 +1,7 @@
-Accuracy : 0.9690
-Precision : 0.9686
-Recall : 0.9705
-Macro F1 : 0.9684
+Accuracy : 0.9619
+Precision : 0.9638
+Recall : 0.9626
+Macro F1 : 0.9610
 
                    precision    recall  f1-score   support
 
@@ -9,24 +9,24 @@ Macro F1 : 0.9684
          airplane       1.00      1.00      1.00        14
   baseballdiamond       1.00      0.94      0.97        18
             beach       1.00      1.00      1.00        23
-        buildings       0.83      1.00      0.91        15
+        buildings       0.75      1.00      0.86        15
         chaparral       1.00      1.00      1.00        20
- denseresidential       0.87      0.81      0.84        16
+ denseresidential       0.92      0.75      0.83        16
            forest       1.00      1.00      1.00        22
           freeway       1.00      1.00      1.00        22
-       golfcourse       0.92      1.00      0.96        22
+       golfcourse       0.95      0.86      0.90        22
            harbor       1.00      1.00      1.00        17
      intersection       0.88      1.00      0.93        21
-mediumresidential       0.92      0.92      0.92        25
-   mobilehomepark       1.00      0.95      0.98        21
+mediumresidential       0.88      0.92      0.90        25
+   mobilehomepark       1.00      1.00      1.00        21
          overpass       1.00      1.00      1.00        18
        parkinglot       1.00      1.00      1.00        22
-            river       1.00      0.94      0.97        18
+            river       0.86      1.00      0.92        18
            runway       1.00      1.00      1.00        18
-sparseresidential       0.93      1.00      0.96        13
-     storagetanks       1.00      0.93      0.96        29
-      tenniscourt       1.00      0.88      0.93        24
+sparseresidential       1.00      0.92      0.96        13
+     storagetanks       1.00      0.90      0.95        29
+      tenniscourt       1.00      0.92      0.96        24
 
-         accuracy                           0.97       420
-        macro avg       0.97      0.97      0.97       420
-     weighted avg       0.97      0.97      0.97       420
+         accuracy                           0.96       420
+        macro avg       0.96      0.96      0.96       420
+     weighted avg       0.97      0.96      0.96       420

@@ -23,8 +23,7 @@ Predict land-use categories from satellite imagery, compare two satellite images
 
 ### 🌐 Live Demo
 
-> 🚧 **Coming Soon**  
-> https://your-streamlit-app.streamlit.app
+> https://satellite-landuse-classifier.streamlit.app
 
 ### 🎥 Project Demo
 
@@ -227,6 +226,13 @@ The **EuroSAT** dataset is used for training and validating the land-use classif
 - River
 - Sea/Lake
 
+### Dataset
+The dataset is available via [Zenodo](https://zenodo.org/record/7711810#.ZAm3k-zMKEA).
+
+##### Deprecated Hosting
+* [EuroSAT Dataset (RGB)](https://madm.dfki.de/files/sentinel/EuroSAT.zip)
+* [EuroSAT Dataset (MS)](https://madm.dfki.de/files/sentinel/EuroSATallBands.zip)
+
 ---
 
 ## 🛰️ UC Merced Land Use Dataset (Holdout Dataset)
@@ -239,6 +245,11 @@ The **UC Merced Land Use Dataset** is used to evaluate the generalization capabi
 | Classes | 21 |
 | Image Size | 256 × 256 |
 | Purpose | Holdout Evaluation |
+
+### Dataset
+The dataset is available via [Kaggle](https://www.kaggle.com/datasets/abdulhasibuddin/uc-merced-land-use-dataset/data).
+
+
 
 ---
 
@@ -701,10 +712,10 @@ Download the generated analysis report.
 
 # 🌐 Live Streamlit Deployment
 
-> 🚧 Coming Soon
+
 
 ```
-https://your-streamlit-app.streamlit.app
+https://satellite-landuse-classifier.streamlit.app
 ```
 
 ---
@@ -772,21 +783,6 @@ Yes. Upload any compatible satellite images using the Streamlit dashboard.
 Yes. After installing the required dependencies, the dashboard runs locally without an internet connection.
 
 </details>
-
----
-
-# 🤝 Acknowledgements
-
-Special thanks to:
-
-- EuroSAT Dataset
-- UC Merced Land Use Dataset
-- PyTorch
-- Torchvision
-- Streamlit
-- Scikit-Learn
-- OpenCV
-- Matplotlib
 
 ---
 
